@@ -31,7 +31,7 @@ Setup and Installation
 
 Clone the repository:
 
-git clone <repository_url>
+git clone https://github.com/Victor-MGB/personal_library.git
 
 Install dependencies for both Python and Node.js:
 Python: pip install -r requirements.txt
